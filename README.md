@@ -4,16 +4,16 @@
 
 "codes" and "notebook" are LSTM and SARIMA codes in python and jupyter notebook, respectively. 
 
-"Time_Series_Prediction.pptx" provides more details in terms of model details.
+"Time_Series_Prediction.pptx" provides more details about the methods.
 
 The data used here are vehicle trip records in New York from 2015 to mid 2018
 
 
 ## SECTION 2, Web Visulization
 
-<b> NOTE: the dataset here is zillow house price in the US, model used here is lSTM from a previous project. </b>
+<b> NOTE: dataset here is the US zillow house prices, predictive model used here is lSTM from a previous project. </b>
 
-To see the result, run a python server with the "visualization/UI" folder as root.
+To check the result, run a python server with the "visualization/UI" folder as root.
 
     python -m http.server
 
